@@ -1,1 +1,1 @@
-This a Banking web application in which front end is developed using HTML, CSS framework like Bootstrap and JS library such as angular . The backend of this project is developed using  php and database such as mysql.
+This a Banking web application in which front end is developed using HTML, CSS, react . The Backend of this project is developed using Node.js and for Database MongoDB is being used. So Basically this is a MERN stack project.
